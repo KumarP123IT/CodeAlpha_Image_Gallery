@@ -25,7 +25,7 @@ To set up and run this project locally, follow these steps:
     cd simple-image-gallery
     ````
 
-4. **Run the application:**
+ **Run the application:**
 
     To start , use:
 
