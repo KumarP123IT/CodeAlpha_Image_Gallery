@@ -1,7 +1,5 @@
 # CodeAlpha_Image_Gallery
 
-# Simple Image Gallery
-
 Welcome to the Simple Image Gallery project! This is a lightweight and easy-to-use image gallery application designed to showcase images in a clean and organized manner.
 
 ## Features
