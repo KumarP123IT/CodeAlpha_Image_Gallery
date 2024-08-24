@@ -32,7 +32,5 @@ To set up and run this project locally, follow these steps:
     To start , use:
 
     use live server or copy the path and paste it in your browser 
-    ```
-
-
+    
 Thank you for using the Simple Image Gallery! We hope you find it useful for your projects.
